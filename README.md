@@ -6,7 +6,8 @@ and Machine Learning approches to reach a suffiecient accuracy.
 ## Dataset
 
 Our dataset is from Kaggle, which has five folders and includes 370 photos of mild, 999 photos of moderate, 1805 photos of non-diabetic retinopathy, 
-295 photos of proliferative diabetic retinopathy and 193 Severe Non-proliferative diabetic retinopathy. 
+295 photos of proliferative diabetic retinopathy and 193 Severe Non-proliferative diabetic retinopathy. You can access the dataset via this link: 
+'https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered?select=train.csv'
 
 ## Deep Learning Approaches 
 
