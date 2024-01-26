@@ -11,7 +11,7 @@ Our dataset is from Kaggle, which has five folders and includes 370 photos of mi
 
 ## Deep Learning Approaches 
 
-We implemented three Networks using tenserflow Libarary. 
+We implemented three Networks using tenserflow Library. 
 
 - CNN
 * VGG16
